@@ -25,9 +25,9 @@ CSS: Custom CSS styles are applied to create an attractive and user-friendly int
 4. Start the development server: npm start
 5. Open your web browser and visit http://localhost:3000 to use the Notes App.
 1. Dashboard
-<a href="#"><img src="/frontend/public/Dahboard.png"  ></a>
+<a href="#"><img src="/frontend/public/createNew.png"  ></a>
 2. Create New Node
-<a href="#"><img src="frontend/public/Dahboard.pngg"  ></a>
+<a href="#"><img src="/frontend/public/Dahboard.png"  ></a>
 Future Enhancements
 This project can be extended and improved in several ways:
 
