@@ -25,9 +25,9 @@ Install the dependencies: npm install
 Start the development server: npm start
 Open your web browser and visit http://localhost:3000 to use the Notes App.
 1. Dashboard
-<a href="#"><img src="\frontend\public\createNew.png" width=1090px ></a>
+<a href="#"><img src="frontend/public/Dahboard.png" width=1090px ></a>
 2. Create New Node
-<a href="#"><img src="\frontend\public\Dahboard.png" width=1090px ></a>
+<a href="#"><img src="frontend/public/Dahboard.pngg" width=1090px ></a>
 Future Enhancements
 This project can be extended and improved in several ways:
 
