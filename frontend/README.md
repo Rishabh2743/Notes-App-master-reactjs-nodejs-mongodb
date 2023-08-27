@@ -19,13 +19,13 @@ LocalStorage: The browser's localStorage is used to store and retrieve notes loc
 CSS: Custom CSS styles are applied to create an attractive and user-friendly interface.
 
 ### Installation and Usage
-Clone the repository: git clone https://github.com/your-username/notes-app.git
-Navigate to the project directory: cd notes-app
-Install the dependencies: npm install
-Start the development server: npm start
-Open your web browser and visit http://localhost:3000 to use the Notes App.
+1. Clone the repository: 
+2. Navigate to the project directory: cd notes-app
+3. Install the dependencies: npm install
+4. Start the development server: npm start
+5. Open your web browser and visit http://localhost:3000 to use the Notes App.
 1. Dashboard
-<a href="#"><img src="frontend/public/Dahboard.png"  ></a>
+<a href="#"><img src="/frontend/public/Dahboard.png"  ></a>
 2. Create New Node
 <a href="#"><img src="frontend/public/Dahboard.pngg"  ></a>
 Future Enhancements
